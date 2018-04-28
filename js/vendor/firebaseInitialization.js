@@ -1,10 +1,12 @@
-var config = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGE_ID"
-};
+ var config = {
+    apiKey: "AIzaSyDF__bt5YVmpLfFS5HWRvznsduJmxx_TIs",
+    authDomain: "storm-group-vote.firebaseapp.com",
+    databaseURL: "https://storm-group-vote.firebaseio.com",
+    projectId: "storm-group-vote",
+    storageBucket: "storm-group-vote.appspot.com",
+    messagingSenderId: "255769840641"
+  };
+
+
 
 firebase.initializeApp(config);
